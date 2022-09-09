@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HeroGame</string>
+    <string name="attkButton">Boss</string>
+    <string name="playerHP">HP</string>
+    <string name="enemyHP">BOSS</string>
+    <string name="retryButton">RETRY</string>
+    <string name="titleText">BOSS BATTLE™</string>
+    <string name="playButton">PLAY</string>
+    <string name="gameText"> </string>
+    <string name="heroTag">Player</string>
+    <string name="TimerDisp">Timer</string>
+    <string name="boss_HPDisp">BOSS HP</string>
+    <string name="winnerDisp">WINNER</string>
+    <string name="livesDisp">LIVES:</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
